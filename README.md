@@ -1,5 +1,4 @@
 # Flutter hbo max animation ui
-This is follow up course Flutter & Dart the complete guide 2020 by Maximilian Schwarzmüller
 
 ![UI](/screenshots/1.png)
 
@@ -7,4 +6,3 @@ This is follow up course Flutter & Dart the complete guide 2020 by Maximilian Sc
 
 If you have any query please contact at nabeeljaved2029@gmail.com
 
-## Screenshot
